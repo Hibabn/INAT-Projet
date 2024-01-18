@@ -1,1 +1,1 @@
-# INAT-Projet
+# INAT-Projet ( page 2 Inscription + Footer)
